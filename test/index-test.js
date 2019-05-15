@@ -47,3 +47,10 @@ describe('index', () => {
 console.log("I would be a logger.")//get it?
 console.error()
 console.error("Halp!")
+console.log("I would be a logger.") // get it?
+console.warn("halp!")
+console.error("halp")
+console.error("HALP!")
+
+console.log("I would be a logger.")
+console.warn("I want to be warning")
