@@ -1,3 +1,3 @@
 // console.log('Hello,', 'world!');
 // LOG: Hello, world!
-//console.error("Halp")
+console.error("Halp")
